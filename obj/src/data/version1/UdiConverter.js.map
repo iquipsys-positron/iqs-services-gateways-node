@@ -1,0 +1,1 @@
+{"version":3,"file":"UdiConverter.js","sourceRoot":"","sources":["../../../../src/data/version1/UdiConverter.ts"],"names":[],"mappings":";;AAAA,MAAa,YAAY;IAEd,MAAM,CAAC,UAAU,CAAC,GAAW;QAChC,IAAI,GAAG,IAAI,IAAI,IAAI,EAAE;YAAE,OAAO,IAAI,CAAC;QACnC,OAAO,GAAG,CAAC,OAAO,CAAC,eAAe,EAAE,EAAE,CAAC,CAAC,WAAW,EAAE,CAAC;IAC1D,CAAC;CAEJ;AAPD,oCAOC"}
